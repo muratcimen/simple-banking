@@ -49,7 +49,7 @@ Hesap detaylarını görüntülemek için aşağıdaki endpoint'i kullanabilirsi
 
 ## Postman Collection
 
-Proje için Postman koleksiyonunu [buradan](<link_to_postman_collection>) indirebilirsiniz.
+Proje için Postman koleksiyonunu [buradan](<collection>) indirebilirsiniz.
 
 ## İletişim
 
